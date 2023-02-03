@@ -1,0 +1,3 @@
+H:/Prottoy/30th jan/Build/CMakeFiles/Design_Patterns.dir
+H:/Prottoy/30th jan/Build/CMakeFiles/INSTALL.dir
+H:/Prottoy/30th jan/Build/CMakeFiles/ALL_BUILD.dir

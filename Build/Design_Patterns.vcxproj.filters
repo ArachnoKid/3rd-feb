@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="H:\Prottoy\30th jan\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tank.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2127FD45-1764-3E1A-93BE-8AB372926F88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Tank.h" />
+    <ClInclude Include="TankBuilder.h" />
+    <ClInclude Include="Manufacture.h" />
+    <ClInclude Include="Driver.h" />
+    <ClInclude Include="Gun.h" />
+    <ClInclude Include="Armour.h" />
+  </ItemGroup>
+</Project>

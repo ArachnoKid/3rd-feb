@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="H:\Prottoy\30th jan\Build\CMakeFiles\f025935862b70216ddb98641c4a18237\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{65AE0B42-BBDD-3AFB-B4D0-3B3A6DB375A7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
